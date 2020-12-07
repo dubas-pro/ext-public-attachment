@@ -1,0 +1,11 @@
+{
+    "name": "Dubas Public Attachment",
+    "description": "Extension created by dubas.pro, which will let you share attachments with your clients.",
+    "author": "DUBAS - contact@dubas.pro",
+    "acceptableVersions": [
+        ">=6.0.0"
+    ],
+    "version": "0.0.1",
+    "skipBackup": true,
+    "releaseDate": "2020-12-07"
+}
