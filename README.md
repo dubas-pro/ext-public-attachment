@@ -7,7 +7,7 @@ This repo is for comments only, but we do not give any warranty for the extensio
 EspoCRM in version higher than 6.0.0.
 
 ## Getting started
-1. Open our website [https://devcrm.it/download/file?=43ec591a-867c-462d-8390-727d39d9c981](https://devcrm.it/download/file?=43ec591a-867c-462d-8390-727d39d9c981) and download installer;
+1. Open our website [https://devcrm.it/download/?file=43ec591a-867c-462d-8390-727d39d9c981](https://devcrm.it/download/?file=43ec591a-867c-462d-8390-727d39d9c981) and download installer;
 2. Login to your EspoCRM as admin;
 3. Go to admin section and open extensions page;
 4. Choose installer from you computer and start installation process;
